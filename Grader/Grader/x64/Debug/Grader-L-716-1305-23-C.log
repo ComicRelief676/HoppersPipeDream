@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(143,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(168,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(173,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(322,15): error C2065: 'unnestFile': undeclared identifier
