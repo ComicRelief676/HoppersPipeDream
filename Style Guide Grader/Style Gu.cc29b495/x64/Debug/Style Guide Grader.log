@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\25BRAY1\OneDrive - Davis School District\2024-2025\Programming 3\Style Guide Grader\Main.cpp(164,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25BRAY1\OneDrive - Davis School District\2024-2025\Programming 3\Style Guide Grader\Main.cpp(185,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\25BRAY1\OneDrive - Davis School District\2024-2025\Programming 3\Style Guide Grader\Main.cpp(186,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Print.cpp
+  Generating Code...
+  Style Guide Grader.vcxproj -> C:\Users\25BRAY1\OneDrive - Davis School District\2024-2025\Programming 3\Style Guide Grader\x64\Debug\Style Guide Grader.exe
