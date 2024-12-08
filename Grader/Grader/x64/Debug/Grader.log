@@ -1,7 +1,0 @@
-﻿  Main.cpp
-C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(164,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(182,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(200,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(244,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\Main.cpp(250,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Grader.vcxproj -> C:\Users\25anielsen\OneDrive - Davis School District\2024-2025\Adv Prog\Grader\x64\Debug\Grader.exe
